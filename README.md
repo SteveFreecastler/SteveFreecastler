@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SteveFreecastler
+- 👀 I’m interested in video games, series/movies, sports
+- 🌱 I’m currently learning JS, Python, C++, HTML/CSS
